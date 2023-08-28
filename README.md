@@ -6,4 +6,4 @@ Estudante do Ensino Médio na escola [E.E.Desembargador](https://goo.gl/maps/8L2
 Estudante no [SENAI](https://goo.gl/maps/8DCLBwCKCp5WEHwx6)
 
 # Repositórios
-[App Inventor](https://github.com/caualcruz/MEUS_PROJETOS_APPINVENTOR/tree/main/Assets)
+[App Inventor](https://github.com/caualcruz/MEUS_PROJETOS_APPINVENTOR)
