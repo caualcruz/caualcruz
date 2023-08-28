@@ -7,5 +7,5 @@ Estudante no [SENAI](https://goo.gl/maps/8DCLBwCKCp5WEHwx6)
 
 # Repositórios
 [App Inventor](https://github.com/caualcruz/MEUS_PROJETOS_APPINVENTOR/tree/main/Assets)
-#
+
 [Portfólio](https://github.com/caualcruz/PORTFOLIO_SITE_CAUACRUZ)
