@@ -4,6 +4,7 @@ I currently live in São Gonçalo do Rio Abaixo - MG
 
 # Education
 3rd year of high school
+
 IT technician for internet - SENAI
 
 # Student projects
