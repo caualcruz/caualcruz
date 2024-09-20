@@ -1,9 +1,10 @@
-# Olá eu sou o Cauã ⚽
-Moro na cidade de [São Gonçalo do Rio Abaixo](https://goo.gl/maps/etERcqnJXW8XkgFT6)
+# Cauã Cruz
+Hello! My name is Cauã. I am 18 years old and I am a sports and electronic games enthusiast.
+I currently live in São Gonçalo do Rio Abaixo - MG
 
-Estudante do Ensino Médio na escola [E.E.Desembargador](https://goo.gl/maps/8L2dLtUFw6QAYGhD9)
+# Education
+3rd year of high school
+IT technician for internet - SENAI
 
-Estudante no [SENAI](https://goo.gl/maps/8DCLBwCKCp5WEHwx6)
-
-# Repositórios
+# Student projects
 [App Inventor](https://github.com/caualcruz/MEUS_PROJETOS_APPINVENTOR)
