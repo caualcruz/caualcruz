@@ -7,6 +7,12 @@ Hello! My name is Cauã. I am 18 years old and I am a sports and electronic game
 
 IT technician for internet - SENAI
 
+Qualification in React with Node.js - SENAI
+
+Arduino programming qualification - SENAI
+
+Programming and robotics - City Hall of SGRA
+
 # Devtools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
