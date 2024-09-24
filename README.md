@@ -3,8 +3,6 @@ Hello! My name is Cauã. I am 18 years old and I am a sports and electronic game
 
 
 # Education
-3rd year of high school
-
 IT technician for internet - SENAI
 
 Qualification in React with Node.js - SENAI
