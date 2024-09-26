@@ -1,5 +1,5 @@
 # Cauã Cruz
-Hello! My name is Cauã. I am 18 years old and I am a sports and electronic games enthusiast.
+Hello! My name is Cauã. I am 18 years old and I am a sports and electronic games enthusiast. fa da mc pikokinha
 
 
 # Education
