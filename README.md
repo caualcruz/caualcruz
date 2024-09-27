@@ -39,3 +39,5 @@ Programming and robotics - City Hall of SGRA
 ###
 
 <img src="https://raw.githubusercontent.com/caualcruz/caualcruz/output/snake.svg" alt="Snake animation" />
+
+###
