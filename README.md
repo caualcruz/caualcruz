@@ -1,6 +1,5 @@
 # Cauã Cruz
 Hello! My name is Cauã. I am 18 years old and I am a sports and electronic games enthusiast.
-Eu sou gay dms O MAIS GAY DE TODOS!!!!!!!!!!!!
 
 
 
