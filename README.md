@@ -6,6 +6,8 @@ Hello! My name is Cauã. I am 19 years old and I am a sports and electronic game
 # Education
 IT technician for internet - SENAI
 
+Java Programming with C#.net - SENAI
+
 Qualification in React with Node.js - SENAI
 
 Arduino programming qualification - SENAI
